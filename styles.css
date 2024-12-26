@@ -154,4 +154,25 @@ align-items: center;
     margin-right: 70px;
     color:  hsl(0, 1%, 44%);
    }
+   #tags span:nth-child(1) {
+    font-weight: bold; 
+    color: hsl(0, 1%, 44%);
+    font-family: 'MyCustFont', sans-serif;
+    font-weight: bold; 
+    margin-right: 23%;
+    margin-left: -1%;
+  }
+  #tags span:nth-child(2) {
+    font-weight: bold; 
+    color: hsl(0, 1%, 44%);
+    font-family: 'MyCustFont', sans-serif;
+    font-weight: bold; 
+    margin-right: 16%;
+  }
+  #tags span:nth-child(3) {
+    font-weight: bold; 
+    color:  hsl(0, 1%, 44%);
+    font-family: 'MyCustFont', sans-serif;
+    font-weight: bold; 
+  }
 }
